@@ -1,4 +1,4 @@
-﻿[COPIAR TODO O CONTEÚDO DO ARTIFACT ACIMA]
+﻿
 # 🚀 Laboratório Cliente-Servidor - Arquitetura e Simulação
 
 Um ambiente completo de **arquitetura cliente-servidor** usando Docker para demonstrar conceitos de **sistemas distribuídos**, **observabilidade** e **Site Reliability Engineering (SRE)**.
